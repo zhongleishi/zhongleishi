@@ -1,15 +1,13 @@
-<!-- 动画欢迎 -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I%27m+Zhonglei+Shi!;北京林木基因组学研究生;深度学习×育种设计;欢迎来到我的GitHub~&center=true&width=500&height=40&duration=3000" />
+  <img src="https://raw.githubusercontent.com/zhongleishi/zhongleishi/main/assets/forest.jpg" width="300" alt="Forest" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/zhongleishi/zhongleishi/blob/main/assets/cat-animated.gif" width="120">
-</p>
+<h2 align="center">👋 你好，我是 Zhonglei Shi</h2>
+<p align="center">北京 | 博一学生 | 林木基因组学 | 深度学习育种设计</p>
 
 ---
 
-### 👋 关于我
+### 🧬 关于我
 
 - 🌱 博一在读，坐标中国北京
 - 🧬 研究方向：林木基因组学，专注于深度学习服务育种设计
@@ -30,7 +28,7 @@
 
 ---
 
-### 🚀 动态与统计
+### 🚀 我的统计
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zhongleishi&show_icons=true&theme=tokyonight"/>
@@ -38,14 +36,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=zhongleishi&theme=tokyo-night" />
-</p>
-
----
-
-### 🐍 动画彩蛋
-
-<p align="center">
-  <img src="https://github.com/zhongleishi/zhongleishi/raw/output/github-contribution-grid-snake.svg" alt="贪吃蛇动画" />
 </p>
 
 ---
