@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zhongleishi/zhongleishi/main/assets/forest.jpg" width="300" alt="Forest" />
+  <img src="https://github.com/zhongleishi/zhongleishi/blob/main/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241216171644.jpg" width="300" alt="My friend" />
 </p>
 
 <h2 align="center">👋 你好，我是 Zhonglei Shi</h2>
