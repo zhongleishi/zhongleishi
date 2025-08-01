@@ -1,9 +1,11 @@
 <p align="center">
   <img src="https://github.com/zhongleishi/zhongleishi/blob/main/assets/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241216171644.jpg" width="300" alt="My_friend" />
+  <br/>
+  这是我最好的朋友。
 </p>
 
 <h2 align="center">👋 你好，我是 Zhonglei Shi</h2>
-<p align="center">北京 | 博一学生 | 林木基因组学 | 深度学习育种设计</p>
+<p align="center">北京 | 林木遗传育种博士 | 林木基因组学 | 深度学习育种设计</p>
 
 ---
 
