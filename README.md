@@ -11,7 +11,7 @@
 
 ### 🧬 关于我
 
-- 🌱 博一在读，坐标中国北京
+- 🌱 博士在读，坐标中国北京
 - 🧬 研究方向：林木基因组学，专注于深度学习服务育种设计
 - 💻 技能栈：  
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" alt="R" />
